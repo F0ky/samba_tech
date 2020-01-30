@@ -8,7 +8,7 @@ O programa "anagrama_Samba" solicita duas entradas de texto e confere se as duas
 
 O segundo programa "ordenar_Samba" pede a entrada de 8 números (a quantidade de entradas pode ser alterada em range()), após isso, ele faz separadamente a conversão de pares e impares, inserindo os mesmos dentro de listas já ordenados. No final, a variavel "num" recebe as listas par e impar, exibe ao usuário os valores pares em ordem decrescente e os valores impares em ordem crescente.
 
-A API "Samba" ainda não está finalizado, mas a mesmo pode ser utilizado usando o código:
+A API "Samba" ainda não está finalizada, mas a mesmo pode ser utilizado usando o código:
 
 |Comando|Descrição|
 |:---|---|
